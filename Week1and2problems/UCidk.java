@@ -1,3 +1,5 @@
+package Week1and2problems;
+
 public class UCidk {
     public static void main(String[] args) {
         // QUESTION 1
