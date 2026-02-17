@@ -1,6 +1,6 @@
 package Week1and2problems;
 
-public class UCidk {
+public class Level1 {
     public static void main(String[] args) {
         // QUESTION 1
         int harry_birth_year  = 2000;
