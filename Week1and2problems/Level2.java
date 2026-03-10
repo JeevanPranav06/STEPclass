@@ -92,18 +92,18 @@ public class Level2 {
         System.out.println("the results are: " + o1 + " , " + o2 + " , " + o3 + " , " + o4);
 
         // PROBLEM 8
-        double a, b, c, o1, o2, o3, o4;
+        double a1, b2, c2, oa, ob, oc, od;
         System.out.print("Enter a: ");
-        a = scanner.nextDouble();
+        a1 = scanner.nextDouble();
         System.out.print("Enter a: ");
-        b = scanner.nextDouble();
+        b2 = scanner.nextDouble();
         System.out.print("Enter a: ");
-        c = scanner.nextDouble();
-        o1 = a + b * c;
-        o2 = a * b + c;
-        o3 = c + a / b;
-        o4 = a % b + c;
-        System.out.println("the results are: " + o1 + " , " + o2 + " , " + o3 + " , " + o4);
+        c2 = scanner.nextDouble();
+        oa = a1 + b2 * c2;
+        ob = a1 * b2 + c2;
+        oc = c2 + a1 / b2;
+        od = a1 % b2 + c2;
+        System.out.println("the results are: " + oa + " , " + ob + " , " + oc + " , " + od);
     }
 
 }
